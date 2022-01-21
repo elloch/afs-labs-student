@@ -135,3 +135,4 @@ def pay_for_cart():
     except Exception as e:
         # Something else happened, completely unrelated to Stripe
         pass
+# COMMENT ERIK LOCH
